@@ -64,7 +64,7 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 
 ---
 ## Publications
-1. Williams, G.T., Jenkins, S., Lee, D.W.J., Wee, S.J. (2021). How rainfall influences tephra fall loading – an experimental approach, Bulletin of Volcanology, 83(6), 42‑.
+1. Williams, G.T., Jenkins, S., Lee, D.W.J., Wee, S.J. (2021). How rainfall influences tephra fall loading – an experimental approach, Bulletin of Volcanology, 83(6), 42‑. [https://doi.org/10.1007/s00445-021-01465-0](https://link.springer.com/article/10.1007/s00445-021-01465-0)
 
 ---
 ## Working Papers

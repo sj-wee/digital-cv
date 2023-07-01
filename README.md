@@ -1,6 +1,6 @@
 # Shi Jun Wee
 
-Hi! My name is Shi Jun. I am from Singapore, and will be heading to Maryland, USA, for my PhD in Fall 2023. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interactions with climate change, with a focus on tropical regions.
+Hi! My name is Shi Jun (he/him). I am from Singapore, and will be heading to Maryland, USA, for my PhD in Fall 2023. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interactions with climate change, with a focus on tropical regions. I will be working in the Global Land Analysis and Discovery (GLAD) laboratory, under the supervision or Dr. Xiao-Peng Song.
 
 🛰️🌏🌳🌾🔥
 
@@ -8,7 +8,7 @@ Hi! My name is Shi Jun. I am from Singapore, and will be heading to Maryland, US
 
 ---
 ## Education 
-**PhD in Geographical Sciences (2023 - )**  
+**PhD in Geographical Sciences (2023 – )**  
 *University of Maryland, College Park, USA*
 
 **BS (Hons) in Environmental Earth Systems Science, Geosciences (2023)**  
@@ -27,27 +27,27 @@ Asia Oceania Geosciences Society Annual Meeting
 ---
 ## Skills
 Programming: R, Python, MATLAB  
-Geospatial: ArcMap, QGIS, Agisoft Metashape  
+Software: ArcMap, QGIS, Agisoft Metashape  
 Others: Spatial statistics, Remote sensing, Geological field mapping
 
 ---
 ## Research Experience
 
-**Final Year Thesis. NTU, Singapore (2022 - 2023)**
+**Final Year Thesis. NTU, Singapore (2022 – 2023)**
 - Project: *Monitoring dissolved organic carbon concentration in coastal waters of Southeast Asia using remote sensing semi-analytical inversion models*  
 - Translated the original algorithm from IDL to Python  
 - Incorporated optical measurements from the Singapore Straits into a regional spectral library
 
-**URECA Program. NTU, Singapore (2021 - 2022)**
+**URECA Program. NTU, Singapore (2021 – 2022)**
 - Project: *Explaining the spatiotemporal distribution of annual biomass fires in Indonesia since 2002*
 - Constructed yearly spatial regression models (GWR) using multiple publicly available datasets
 
-**URECA Program. NTU, Singapore (2020 - 2021)**
+**URECA Program. NTU, Singapore (2020 – 2021)**
 - Project: *Investigating the HLS variability of coral microatolls using photogrammetry*
 - Created 3D models and DEMs to study the morphology of coral microatolls, using photogrammetry
 - Participated in fieldwork in Singapore’s southern islands (surveying)
 
-**Lab Assistant. NTU, Singapore (2020 - 2021)**
+**Lab Assistant. NTU, Singapore (2020 – 2021)**
 - Project: Effects of rainfall on tephra loading
 - Performed drainage and porosity tests on tephra with varying grain sizes and saturation levels
 
@@ -55,10 +55,10 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 ## Teaching Experience
 
 **Guest Lecturer. NTU, Singapore (Oct 2022)**
-- Presented my study on biomass fires in Indonesia, with an emphasis on GIS applications, to Geography students at the National Institute of Education
+- Presented my study on biomass fires in Indonesia, with an emphasis on GIS applications, to [Geography students](https://nie.edu.sg/our-people/academic-groups/humanities-and-social-studies-education/ba#AAG23H) at the National Institute of Education
 
 **Teaching Assistant. NTU, Singapore (Fall 2021)**
-- Module: ES2802 GIS and the Earth System (class size: 39 UGs, 6 PGs)
+- Module: [ES2802 GIS and the Earth System](https://www.ntu.edu.sg/ase/admissions/undergraduate-programmes/modules-listing/gis-and-the-earth-system) (class size: 39 UGs, 6 PGs)
 - Assisted with lab assignments, grading, and software troubleshooting
 - Co-developed a new assignment to train students on basic QGIS toolsets and color blind-friendly cartography
 
@@ -79,12 +79,12 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 
 ---
 ## Work Experience
-**Research Intern. Artisan Green, Singapore (Dec 2018 to Mar 2019)**
+**Research Intern. Artisan Green, Singapore (Dec 2018 – Mar 2019)**
 - Performed daily operations (e.g., sampling and sorting, data collection, maintenance)
 - Researched ways to increase the life span of fresh produce in storage
 - Worked with suppliers to finalize the product packaging for retail sale
 
-**Full-time National Service. Republic of Singapore Navy (Jan 2017 to Nov 2018)**
+**Full-time National Service. Republic of Singapore Navy (Jan 2017 – Nov 2018)**
 
 ---
 ## Outreach

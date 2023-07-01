@@ -1,18 +1,18 @@
 # Shi Jun Wee
 
-Hi! My name is Shi Jun. I am from Singapore, and will be heading to Maryland, USA, for my PhD. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interaction with climate change, with a focus on tropical regions.
+Hi! My name is Shi Jun. I am from Singapore, and will be heading to Maryland, USA, for my PhD in Fall 2023. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interactions with climate change, with a focus on tropical regions.
 
-[Email](mailto:sjwee@umd.edu) | [LinkedIn](https://www.linkedin.com/in/weeshijun/)
+[Email](mailto:sjwee@umd.edu) / [LinkedIn](https://www.linkedin.com/in/weeshijun/) / [Twitter](https://twitter.com/shijunwee)
 
 ## Education 
 **PhD in Geographical Sciences (2023 - )**  
 *University of Maryland, College Park, USA*
 
-**BS (Hons, Highest Distinction) in Environmental Earth Systems Science, Geosciences (2019 - 2023)**  
+**BS (Hons) in Environmental Earth Systems Science, Geosciences (2023)**  
 *Nanyang Technological University (NTU), Singapore*
 
 ## Honors and Awards
-**NTU Presidential Research Scholar (2022)**
+**NTU President Research Scholar (2022)**
 
 **Distinction Award (2022)**  
 NTU Undergraduate Research Experience on Campus (URECA) Program  
@@ -30,13 +30,13 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 **Final Year Thesis. NTU, Singapore (2022 - 2023)**
 - Project: *Monitoring dissolved organic carbon concentration in coastal waters of Southeast Asia using remote sensing semi-analytical inversion models*  
 - Translated the original algorithm from IDL to Python  
-- Incorporated optical measurements from the Singapore Straits into a regional spectral library  
+- Incorporated optical measurements from the Singapore Straits into a regional spectral library
 
-**URECA Research. NTU, Singapore (2021 - 2022)**
+**URECA Program. NTU, Singapore (2021 - 2022)**
 - Project: *Explaining the spatiotemporal distribution of annual biomass fires in Indonesia since 2002*
 - Constructed yearly spatial regression models (GWR) using multiple publicly available datasets
 
-**URECA Research. NTU, Singapore (2020 - 2021)**
+**URECA Program. NTU, Singapore (2020 - 2021)**
 - Project: *Investigating the HLS variability of coral microatolls using photogrammetry*
 - Created 3D models and DEMs to study the morphology of coral microatolls, using photogrammetry
 - Participated in fieldwork in Singapore’s southern islands (surveying)
@@ -67,14 +67,14 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 3. Tan, S., **Wee, S.J.**, Tan, F., Gopal, A., Teo, J., Mitchell, A., Lim, J., Sarkawi, G., Aung, L.T., Li., X, Majewski, J., Bradley, K., Komori, J., Gautam, R., Meltzner, A. (2021, Dec). Photogrammetry-Based Three-Dimensional Models of Coral Microatoll Surface Morphologies as a Tool to Aid in Reconstruction of Relative Sea-Level Histories. American Geophysical Union, New Orleans, Louisiana, USA (online).
 4. **Wee, S.J.**, Tan, F., Gopal, A., Tan, S., Lim, J., Mitchell, A., Sarkawi, G., Aung, L.T., Li, X., Teo, J., Meltzner, A. (2021, Aug). An investigation of HLS variability from a 2020 diedown of coral microatolls in Singapore using photogrammetry. Asia Oceania Geosciences Society (AOGS), Singapore (online).
 
-## Outreach
-**Featured in AOGS 2023 promotional video**  
-Shared my experience at AOGS 2021 and my visions for the organization's future
-
 ## Work Experience
 **Research Intern.** Artisan Green, Singapore (Dec 2018 to Mar 2019)
 - Performed daily operations (e.g., sampling and sorting, data collection, maintenance)
 - Researched ways to increase the life span of fresh produce in storage
 - Worked with suppliers to finalize the product packaging for retail sale
 
-**Full-time National Service**. Republic of Singapore Navy, Singapore Armed Forces (Jan 2017 to Nov 2018)
+**Full-time National Service**. Republic of Singapore Navy (Jan 2017 to Nov 2018)
+
+## Outreach
+**Featured in AOGS 2023 promotional video**  
+Shared my experience at AOGS 2021 and my visions for the organization's future

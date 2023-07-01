@@ -1,8 +1,8 @@
 # Education 
-PhD in Geographical Sciences (2023 - )  
+**PhD in Geographical Sciences (2023 - )**  
 *University of Maryland, College Park, USA*
 
-BS (Hons) in Environmental Earth Systems Science, Geosciences (Highest Distinction) (2019 - 2023)  
+**BS (Hons, Highest Distinction) in Environmental Earth Systems Science, Geosciences (2019 - 2023)**  
 *Nanyang Technological University (NTU), Singapore*
 
 # Honors and Awards
@@ -62,8 +62,8 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 4. **Wee, S.J.**, Tan, F., Gopal, A., Tan, S., Lim, J., Mitchell, A., Sarkawi, G., Aung, L.T., Li, X., Teo, J., Meltzner, A. (2021, Aug). An investigation of HLS variability from a 2020 diedown of coral microatolls in Singapore using photogrammetry. Asia Oceania Geosciences Society (AOGS), Singapore (online).
 
 # Outreach
-**Featured in AOGS 2023 promotional video, Singapore**
-- Shared my experience at AOGS and my visions for the organization's future
+**Featured in AOGS 2023 promotional video**  
+Shared my experience at AOGS 2021 and my visions for the organization's future
 
 # Work Experience
 **Research Intern.** Artisan Green, Singapore (Dec 2018 to Mar 2019)

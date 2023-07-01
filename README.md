@@ -1,4 +1,6 @@
-# Shi Jun Wee's CV
+# Shi Jun Wee
+
+[Email](mailto:sjwee@umd.edu) | [LinkedIn](https://www.linkedin.com/in/weeshijun/)
 
 ## Education 
 **PhD in Geographical Sciences (2023 - )**  

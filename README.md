@@ -25,16 +25,16 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 
 ## Research Experience
 
-**Final Year Thesis. NTU, Singapore (2023)**
+**Final Year Thesis. NTU, Singapore (2022 - 2023)**
 - Project: *Monitoring dissolved organic carbon concentration in coastal waters of Southeast Asia using remote sensing semi-analytical inversion models*  
 - Translated the original algorithm from IDL to Python  
 - Incorporated optical measurements from the Singapore Straits into a regional spectral library  
 
-**URECA Research. NTU, Singapore (2022)**
+**URECA Research. NTU, Singapore (2021 - 2022)**
 - Project: *Explaining the spatiotemporal distribution of annual biomass fires in Indonesia since 2002*
 - Constructed yearly spatial regression models (GWR) using multiple publicly available datasets
 
-**URECA Research. NTU, Singapore (2021)**
+**URECA Research. NTU, Singapore (2020 - 2021)**
 - Project: *Investigating the HLS variability of coral microatolls using photogrammetry*
 - Created 3D models and DEMs to study the morphology of coral microatolls, using photogrammetry
 - Participated in fieldwork in Singapore’s southern islands (surveying)

@@ -1,5 +1,7 @@
 # Shi Jun Wee
 
+Hi! My name is Shi Jun. I am from Singapore, and will be heading to Maryland, USA, for my PhD. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interaction with climate change, with a focus on tropical regions.
+
 [Email](mailto:sjwee@umd.edu) | [LinkedIn](https://www.linkedin.com/in/weeshijun/)
 
 ## Education 

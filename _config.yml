@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Curriculum Vitae
 description: Last updated on 1 July 2023
 # logo: /assets/img/logo.png
-# show_downloads: true
+show_downloads: true
 # google_analytics:

@@ -1,6 +1,6 @@
 # Shi Jun Wee
 
-Hi! My name is Shi Jun (he/him). I am from Singapore, and will be heading to Maryland, USA, for my PhD in Fall 2023. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interactions with climate change, with a focus on tropical regions. I will be working in the Global Land Analysis and Discovery (GLAD) laboratory, under the supervision or Dr. Xiao-Peng Song.
+Hi! My name is Shi Jun (he/him). I am from Singapore, and will be moving to Maryland, USA, for my PhD in Fall 2023. My interests are in using satellite remote sensing to investigate the trends, drivers, and impacts of land-cover/land-use change and its interactions with climate change, with a focus on tropical regions. I will be working in the Global Land Analysis and Discovery (GLAD) laboratory under the supervision of Dr. Xiao-Peng Song.
 
 🛰️🌏🌳🌾🔥
 
@@ -33,22 +33,26 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 ---
 ## Research Experience
 
-**Final Year Thesis. NTU, Singapore (2022 – 2023)**
+**Final Year Thesis. NTU, Singapore (2022 – 2023)**  
+*Advisors: Dr. Sang-Ho Yun, Dr. Patrick Martin*
 - Project: *Monitoring dissolved organic carbon concentration in coastal waters of Southeast Asia using remote sensing semi-analytical inversion models*  
-- Translated the original algorithm from IDL to Python  
-- Incorporated optical measurements from the Singapore Straits into a regional spectral library
+- Incorporated new optical measurements from Singapore into a regional spectral library
+- Demonstrated the scalability of the algorithm, originally parameterized for Sarawak, in the Malacca Strait
 
-**URECA Program. NTU, Singapore (2021 – 2022)**
+**URECA Program. NTU, Singapore (2021 – 2022)**  
+*Advisor: Dr. Edward Park*
 - Project: *Explaining the spatiotemporal distribution of annual biomass fires in Indonesia since 2002*
 - Constructed yearly spatial regression models (GWR) using multiple publicly available datasets
 
-**URECA Program. NTU, Singapore (2020 – 2021)**
+**URECA Program. NTU, Singapore (2020 – 2021)**  
+*Advisor: Dr. Aron Meltzner*
 - Project: *Investigating the HLS variability of coral microatolls using photogrammetry*
-- Created 3D models and DEMs to study the morphology of coral microatolls, using photogrammetry
+- Used photogrammetry to create 3D models and DEMs to study the morphology of coral microatolls
 - Participated in fieldwork in Singapore’s southern islands (surveying)
 
-**Lab Assistant. NTU, Singapore (2020 – 2021)**
-- Project: Effects of rainfall on tephra loading
+**Lab Assistant. NTU, Singapore (2020 – 2021)**  
+*Advisors: Dr. George T Williams, Dr. Susanna Jenkins*
+- Project: *Effects of rainfall on tephra loading*
 - Performed drainage and porosity tests on tephra with varying grain sizes and saturation levels
 
 ---
@@ -68,19 +72,19 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 
 ---
 ## Working Papers
-1. **Wee, S.J.**, Park, E., Alcantara, E., Lee, J.S.H (under review). Spatial regression reveals deforestation is consistently the main driver of wildfires in Indonesia since 2002.
+1. **Wee, S.J.**, Park, E., Alcantara, E., Lee, J.S.H (under review). Spatial regression reveals deforestation is consistently the main driver of biomass fires in Indonesia since 2002.
 
 ---
 ## Conferences
-1. Tan, F., **Wee, S.J.**, Lim, J., Teo, J., Tan, S., Gopal, A., Mitchell, A., Sarkawi, G., Li, X., Aung, L.T., Horton, B.P., Meltzner, A. (2021, Dec). Holocene Relative Sea-Level Change from Coral Microatolls at Sentosa, Singapore. American Geophysical Union (AGU), New Orleans, Louisiana, USA (online).
-2. Lim, J., **Wee, S.J.**, Tan, F., Tan, S., Gopal, A., Mitchell, A., Teo, J., Sarkawi, G., Li, X., Aung, L.T., Meltzner, A. (2021, Dec). Investigation of an Ongoing Sequence of Coral Microatoll Diedowns in Singapore (2020–2024?). American Geophysical Union (AGU), New Orleans, Louisiana, USA (online).
-3. Tan, S., **Wee, S.J.**, Tan, F., Gopal, A., Teo, J., Mitchell, A., Lim, J., Sarkawi, G., Aung, L.T., Li., X, Majewski, J., Bradley, K., Komori, J., Gautam, R., Meltzner, A. (2021, Dec). Photogrammetry-Based Three-Dimensional Models of Coral Microatoll Surface Morphologies as a Tool to Aid in Reconstruction of Relative Sea-Level Histories. American Geophysical Union, New Orleans, Louisiana, USA (online).
-4. **Wee, S.J.**, Tan, F., Gopal, A., Tan, S., Lim, J., Mitchell, A., Sarkawi, G., Aung, L.T., Li, X., Teo, J., Meltzner, A. (2021, Aug). An investigation of HLS variability from a 2020 diedown of coral microatolls in Singapore using photogrammetry. Asia Oceania Geosciences Society (AOGS), Singapore (online).
+1. Tan, F., **Wee, S.J.**, Lim, J., Teo, J., Tan, S., Gopal, A., Mitchell, A., Sarkawi, G., Li, X., Aung, L.T., Horton, B.P., Meltzner, A. (2021, Dec). Holocene Relative Sea-Level Change from Coral Microatolls at Sentosa, Singapore. American Geophysical Union (AGU), New Orleans, Louisiana, USA (online, poster).
+2. Lim, J., **Wee, S.J.**, Tan, F., Tan, S., Gopal, A., Mitchell, A., Teo, J., Sarkawi, G., Li, X., Aung, L.T., Meltzner, A. (2021, Dec). Investigation of an Ongoing Sequence of Coral Microatoll Diedowns in Singapore (2020–2024?). American Geophysical Union (AGU), New Orleans, Louisiana, USA (online, poster).
+3. Tan, S., **Wee, S.J.**, Tan, F., Gopal, A., Teo, J., Mitchell, A., Lim, J., Sarkawi, G., Aung, L.T., Li., X, Majewski, J., Bradley, K., Komori, J., Gautam, R., Meltzner, A. (2021, Dec). Photogrammetry-Based Three-Dimensional Models of Coral Microatoll Surface Morphologies as a Tool to Aid in Reconstruction of Relative Sea-Level Histories. American Geophysical Union, New Orleans, Louisiana, USA (online, poster).
+4. **Wee, S.J.**, Tan, F., Gopal, A., Tan, S., Lim, J., Mitchell, A., Sarkawi, G., Aung, L.T., Li, X., Teo, J., Meltzner, A. (2021, Aug). An investigation of HLS variability from a 2020 diedown of coral microatolls in Singapore using photogrammetry. Asia Oceania Geosciences Society (AOGS), Singapore (online, oral).
 
 ---
 ## Work Experience
 **Research Intern. Artisan Green, Singapore (Dec 2018 – Mar 2019)**
-- Performed daily operations (e.g., sampling and sorting, data collection, maintenance)
+- Performed daily operations (sampling and sorting, data collection, equipment maintenance)
 - Researched ways to increase the life span of fresh produce in storage
 - Worked with suppliers to finalize the product packaging for retail sale
 

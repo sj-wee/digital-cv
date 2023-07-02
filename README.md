@@ -4,7 +4,7 @@ Hi! My name is Shi Jun (he/him). I am from Singapore, and will be moving to Mary
 
 🛰️🌏🌳🌾🔥
 
-[Email](mailto:sjwee@umd.edu) / [LinkedIn](https://www.linkedin.com/in/weeshijun/) / [Twitter](https://twitter.com/shijunwee)
+[Email](mailto:sjwee@umd.edu) / [LinkedIn](https://www.linkedin.com/in/weeshijun/) / [Twitter](https://twitter.com/shijunwee) / [Activities](https://sj-wee.github.io/digital-cv/activities.html)
 
 ---
 ## Education 

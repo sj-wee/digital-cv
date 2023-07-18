@@ -80,7 +80,7 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 - Researched ways to increase the life span of fresh produce in storage
 - Worked with suppliers to finalize the product packaging for retail sale
 
-**Full-time National Service. Republic of Singapore Navy (Jan 2017 – Nov 2018)**
+**National Service. Republic of Singapore Navy (Jan 2017 – Nov 2018)**
 
 ---
 ## Outreach

@@ -67,10 +67,6 @@ Others: Spatial statistics, Remote sensing, Geological field mapping
 1. Williams, G.T., Jenkins, S., Lee, D.W.J., Wee, S.J. (2021). How rainfall influences tephra fall loading – an experimental approach, Bulletin of Volcanology, 83(6), 42‑. [https://doi.org/10.1007/s00445-021-01465-0](https://link.springer.com/article/10.1007/s00445-021-01465-0)
 
 ---
-## Working Papers
-1. **Wee, S.J.**, Park, E., Alcantara, E., Lee, J.S.H (under review). Spatial regression reveals deforestation is consistently the main driver of biomass fires in Indonesia since 2002.
-
----
 ## Conferences
 1. Tan, F., **Wee, S.J.**, Lim, J., Teo, J., Tan, S., Gopal, A., Mitchell, A., Sarkawi, G., Li, X., Aung, L.T., Horton, B.P., Meltzner, A. (2021, Dec). Holocene Relative Sea-Level Change from Coral Microatolls at Sentosa, Singapore. American Geophysical Union (AGU), New Orleans, Louisiana, USA (online, poster).
 2. Lim, J., **Wee, S.J.**, Tan, F., Tan, S., Gopal, A., Mitchell, A., Teo, J., Sarkawi, G., Li, X., Aung, L.T., Meltzner, A. (2021, Dec). Investigation of an Ongoing Sequence of Coral Microatoll Diedowns in Singapore (2020–2024?). American Geophysical Union (AGU), New Orleans, Louisiana, USA (online, poster).
